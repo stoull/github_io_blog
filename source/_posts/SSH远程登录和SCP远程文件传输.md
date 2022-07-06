@@ -2,8 +2,9 @@
 title: SSH远程登录和SCP远程文件传输
 date: 2017-08-26 14:48:18
 categories:
-- bash
+- Linux
 tags:
+- Linux
 - ssh
 - scp
 ---
